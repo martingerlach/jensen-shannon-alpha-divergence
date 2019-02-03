@@ -1,5 +1,0 @@
-README.md
-jsd.egg-info/PKG-INFO
-jsd.egg-info/SOURCES.txt
-jsd.egg-info/dependency_links.txt
-jsd.egg-info/top_level.txt
