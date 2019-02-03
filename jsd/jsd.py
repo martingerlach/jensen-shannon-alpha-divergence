@@ -4,9 +4,9 @@ import random
 import os
 import sys
 
-from ent import D_alpha
-from data_io import get_dict_words_counts
-from data_io import get_p12_same_support
+from .ent import D_alpha
+from .data_io import get_dict_words_counts
+from .data_io import get_p12_same_support
 
 
 def jsdalpha(
